@@ -1,4 +1,7 @@
 
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/d52b69b5-2ae0-49c9-a01d-b394990d8765" />
+
+
 # BRIDGE — SHAREHOLDER TRANSITION PROPOSAL
 
 **A new trustless bridge structure for the Qubic ecosystem.**
