@@ -208,8 +208,8 @@ The withdrawal mechanism is intended as a market-driven pricing system: higher o
 | Recipient   | Share |
 |-------------|-------|
 | ZK Prover   | 50%   |
-| Shareholders| 49%   |
-| Burn        | 1%    |
+| Shareholders| 50%   |
+| Burn        | 0%    |
 | **TOTAL**   | **100%** |
 
 The ZK Prover fee is dynamic and can influence transaction prioritization and execution speed. The OM fee is a separate deposit-stage fee. The BRIDGE SC receives the remaining amount after OM and ZK fees. The final fee schedule must be approved before implementation.
