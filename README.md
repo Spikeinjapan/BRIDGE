@@ -33,8 +33,6 @@ The relevant shareholder vote(s) include acceptance of this proposal and the for
 
 <img width="1494" height="602" alt="image" src="https://github.com/user-attachments/assets/646130f2-861d-4404-a5e5-0043670309b4" />
 
-<img width="1515" height="1276" alt="image" src="https://github.com/user-attachments/assets/140e4fde-8625-4862-b0d6-b631cd270e99" />
-
 
 ---
 
