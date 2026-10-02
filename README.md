@@ -34,7 +34,7 @@ The relevant shareholder vote(s) include acceptance of this proposal and the for
 <img width="1494" height="602" alt="image" src="https://github.com/user-attachments/assets/646130f2-861d-4404-a5e5-0043670309b4" />
 
 ********
-##We will prefer also a clear official statement from Vottun — whether on X, their website, or another official channel to avoid bad and unfair PR in future towards Qubic and BRIDGE and call on the community to help with that.
+**We will prefer also a clear official statement from Vottun — whether on X, their website, or another official channel to avoid bad and unfair PR in future towards Qubic and BRIDGE and call on the community to help with that.**
 ********
 ---
 
