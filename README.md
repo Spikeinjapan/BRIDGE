@@ -1,5 +1,5 @@
 
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/d52b69b5-2ae0-49c9-a01d-b394990d8765" />
+<img width="1640" height="656" alt="image" src="https://github.com/user-attachments/assets/db98ae85-528f-488e-a294-61f326f5f711" />
 
 
 # BRIDGE — SHAREHOLDER TRANSITION PROPOSAL
