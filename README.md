@@ -290,3 +290,15 @@ All material implementation parameters remain subject to the applicable sharehol
 Remaining unconverted VOTTUN shareholder positions shall be retired to prevent future misuse or confusion.
 
 A proposal may be submitted to 
+
+## 19 Diagrams and Flowchart
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/020bfc44-780c-440e-b885-f3e96dffe259" />
+
+
+<img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/424d5e87-bab2-457b-b0e5-0a9e6c6b2d69" />
+
+
+<img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/5b74fe87-1503-477c-a43e-114d23eab748" />
+
+
