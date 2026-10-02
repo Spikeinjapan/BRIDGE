@@ -31,6 +31,11 @@ The transition addressed by this proposal concerns the shareholder / community s
 
 The relevant shareholder vote(s) include acceptance of this proposal and the formation of the new shareholder structure. A Special off-chain IPO is part of the proposed transition.
 
+<img width="1494" height="602" alt="image" src="https://github.com/user-attachments/assets/646130f2-861d-4404-a5e5-0043670309b4" />
+
+<img width="1515" height="1276" alt="image" src="https://github.com/user-attachments/assets/140e4fde-8625-4862-b0d6-b631cd270e99" />
+
+
 ---
 
 ## 02 Shareholder / IPO Structure
@@ -65,6 +70,8 @@ The affected users are real individuals, and the losses have had significant per
 
 The eligible collateral amount shall be defined by a snapshot at the time of the bridge incident. This snapshot determines the amount eligible for consideration and its corresponding wUSDT reference value.
 
+Applicants seeking support may be required to provide a police report or other appropriate official documentation evidencing the reported loss, subject to verification and shareholder-approved procedures.
+
 **Approved support shall be paid in QUBIC, based on the current value of the pair QUBIC/wUSDT, and on that snapshot reference value.**
 
 ### PROPOSED SUPPORT LEVEL
@@ -72,6 +79,9 @@ The eligible collateral amount shall be defined by a snapshot at the time of the
 25%, 50%, 75% or up to 100% of actually lost and verified personal collateral may be considered. The final support level must be determined and approved by shareholder vote, based on available funds after the other approved and required costs have been considered.
 
 After the required costs and approved allocations have been covered, shareholders may consider whether additional support is possible. There is **no** obligation to provide support beyond the amount approved through shareholder governance, and **no** automatic repayment, compensation or recovery guarantee is created. The support mechanism is **not** an assumption of any VOTTUN liability or obligation.
+
+<img width="1509" height="948" alt="image" src="https://github.com/user-attachments/assets/d20c634e-ebce-445b-ae6b-0ba07c47df28" />
+
 
 ---
 
@@ -289,9 +299,14 @@ All material implementation parameters remain subject to the applicable sharehol
 
 Remaining unconverted VOTTUN shareholder positions shall be retired to prevent future misuse or confusion.
 
-A proposal may be submitted to 
+A proposal may be submitted to Computors.
 
-## 19 Diagrams and Flowchart
+
+### FINAL STATUS
+
+This document consolidates the proposed transition framework, bridge scope, security approach, governance process and fee model for shareholder discussion and approval.
+
+## Diagrams and Flowchart
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/020bfc44-780c-440e-b885-f3e96dffe259" />
 
